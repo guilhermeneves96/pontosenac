@@ -1,0 +1,55 @@
+.badges {
+    padding: 4px 8px;
+    border-radius: 12px;
+    background-color: #F6BF86;
+    color: #865320;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+
+.pendente {
+    padding: 4px 8px;
+    background-color: #F6BF86;
+    color: #865320;
+    border-radius: 12px;
+
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.concluido {
+    padding: 4px 8px;
+    background-color: #80C69C;
+    color: #15723A;
+    border-radius: 12px;
+
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.cancelada {
+    padding: 4px 8px;
+    background-color: #E9E9E9;
+    color: #7B7B7B;
+    border-radius: 12px;
+
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.recusada {
+    padding: 4px 8px;
+    background-color: #F0A1A1;
+    color: #9B3131;
+    border-radius: 12px;
+
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+}
